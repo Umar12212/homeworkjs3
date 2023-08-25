@@ -6,7 +6,7 @@ if(age < 18){
     alert("Вам нужно работать" )
 }else if(age < 59){
     alert("Вы скоро выйдете на пенсию! ")
-}else if(age < 100){
+}else if(age < 101){
     alert(" Вы уже на пенсии")
 }else{
     (age < 100)
